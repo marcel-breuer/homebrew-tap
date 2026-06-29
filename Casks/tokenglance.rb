@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 cask "tokenglance" do
-  version "0.1.4"
-  sha256 "9d1d9ac23098db7cece90c283d741934109f34ef1b4df8db33029617e90af21d"
+  version "0.1.5"
+  sha256 "505e7149e57f793ce060a104f7a8471f521c22fff53c523612676d6212cdda7b"
 
   url "https://github.com/marcel-breuer/tokenglance/releases/download/v#{version}/TokenGlance-#{version}-arm64.zip"
   name "TokenGlance"
