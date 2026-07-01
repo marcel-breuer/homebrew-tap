@@ -1,6 +1,6 @@
 cask "portnado" do
   version "0.1.0"
-  sha256 "0caaa0be2423ee7b6203a6af9b1c70dcaed6b895da0009bb956a43688e74d41d"
+  sha256 "25dcabd652e078481d7e2d802c8d74e0a1e1d3059ac7a1717e98e05a9ff29fac"
 
   url "https://github.com/marcel-breuer/portnado/releases/download/v#{version}/Portnado-v#{version}-darwin-arm64.zip"
   name "Portnado"
