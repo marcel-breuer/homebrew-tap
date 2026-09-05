@@ -1,6 +1,6 @@
 cask "dockersweep" do
-  version "0.1.4"
-  sha256 "36b5f5cd6fd945a73b77a1b10e4e8b22d2f5e9e08dba008b0093f13e9d16bcdf"
+  version "0.1.5"
+  sha256 "2a233246fea8ae004b0c1b5f4991ec2f537d1ab70032a681cf9a57d14044a42d"
 
   url "https://github.com/marcel-breuer/docker-sweep/releases/download/v#{version}/DockerSweep-#{version}-arm64.zip"
   name "DockerSweep"
